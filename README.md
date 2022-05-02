@@ -9,12 +9,12 @@ In a tree of this format
 
 asciitree<br>
 +--sometimes<br>
-|\t+--you
-+--just
-|\t+--want
-|\t\t+--to
-|\t\t+--draw
-+--trees
-+--in
-|\t+--your
-|\t\t+--terminal
+|   +--you<br>
++--just<br>
+|   +--want<br>
+|      +--to<br>
+|      +--draw<br>
++--trees<br>
++--in<br>
+|   +--your<br>
+|      +--terminal<br>
