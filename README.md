@@ -7,14 +7,14 @@
 
 In a tree of this format
 
-<p>asciitree<br>
-<p>+--sometimes</p><br>
-<p>|   +--you</p><br>
-<p>+--just</p><br>
-<p>|   +--want</p><br>
-<p>|      +--to</p><br>
-<p>|      +--draw</p><br>
-<p>+--trees</p><br>
-<p>+--in</p><br>
-<p>|   +--your</p><br>
-<p>|      +--terminal</p><br>
+asciitree<br>
++--sometimes<br>
+|&nbsp;&nbsp;&nbsp;+--you<br>
++--just<br>
+|&nbsp;&nbsp;&nbsp;+--want<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+--to<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+--draw<br>
++--trees<br>
++--in<br>
+|&nbsp;&nbsp;&nbsp;+--your<br>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;+--terminal<br>
